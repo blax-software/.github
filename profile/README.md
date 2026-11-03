@@ -18,7 +18,7 @@ We build these packages for our own projects. [LearnATC](https://www.learn-atc.c
 | [laravel-invoicing](https://github.com/blax-software/laravel-invoicing) | Invoices with gapless numbering, VAT or Austrian small-business mode |
 | [laravel-mail](https://github.com/blax-software/laravel-mail) | Per-mailbox SMTP and IMAP, threading and tracking |
 | [laravel-workkit](https://github.com/blax-software/laravel-workkit) | Helpers we reuse across every Laravel project |
-| [docker-laravel](https://github.com/blax-software/docker-laravel) | PHP + Nginx Docker images for Laravel, PHP 7.4 to 8.5 |
+| [docker-laravel](https://github.com/blax-software/docker-laravel) | PHP + Nginx Docker images for Laravel, PHP 8.0 to 8.4 |
 | [npm-networking](https://github.com/blax-software/npm-networking) | `api.` and `ws.` helpers for Vue and Nuxt clients |
 | [npm-i18n](https://github.com/blax-software/npm-i18n) | Per-page translation sources for vue-i18n and Nuxt |
 | [wordpress-plugin-framework](https://github.com/blax-software/wordpress-plugin-framework) | Structure and features for WordPress plugin development |
