@@ -2,7 +2,7 @@
 
 We build web platforms, SaaS products and real-time apps with **Laravel**, **Nuxt** and **WebSockets**, from Gallneukirchen near Linz, Austria.
 
-We build these packages for our own work: [LearnATC](https://www.learn-atc.com) runs on laravel-websockets, laravel-shop, laravel-roles, laravel-files and laravel-workkit, and the rest come from platforms we build for clients.
+We build these packages for our own projects. [LearnATC](https://www.learn-atc.com), for example, runs on laravel-websockets, laravel-shop, laravel-roles, laravel-files and laravel-workkit.
 
 ## Packages
 
